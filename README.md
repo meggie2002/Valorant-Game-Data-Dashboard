@@ -15,5 +15,4 @@ Developed an interactive dashboard using Power BI to analyze and visualize data 
 - Created an informative and interactive dashboard
 - Provided detailed insights into agent abilities and weapon statistics
 
-## How to View the Dashboard
-- 
+  
