@@ -39,5 +39,8 @@ This project provides an interactive dashboard for analyzing VALORANT game data,
     *   Illustrates the fire rate (rounds per second) of each weapon.
     *   "Stinger" has the highest fire rate at 18, while "Operator" has the lowest at 0.75.
 
+## Data Sources
+- Agents Dataset: Contains agent names, roles, biographies, image URLs, and detailed ability information (including descriptions and video examples).
 
+- Weapons Dataset: Includes weapon names, types, prices, fire rates, wall penetration values, and damage statistics for different body parts and ranges.
   
